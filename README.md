@@ -1,6 +1,7 @@
 # LastMile
 
-Enterprise-grade delivery management platform: customers place orders with live quotes, admins configure zones and pricing, agents update delivery status, and every status change is recorded in an immutable tracking timeline.
+Built a scalable last-mile delivery management platform where customers can place orders with real-time pricing, administrators manage delivery zones and pricing rules, delivery agents update shipment statuses, and every status transition is securely logged in a complete tracking history.
+
 
 **Hosted app:** Deploy frontend to [Vercel](https://vercel.com) and backend to [Render](https://render.com) — see [Deployment](#deployment). Replace this line with your live URL after deploying.
 
@@ -20,8 +21,8 @@ Enterprise-grade delivery management platform: customers place orders with live 
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/Abhirajverma12/LastMile.git
-cd LastMileUS
+git clone https://github.com/Abhinay-Patel876/Last-Mile-Delivery-Tracker.git
+cd LastMile
 cp backend/.env.example backend/.env
 cp frontend/.env.example frontend/.env
 ```
